@@ -1,7 +1,7 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Moataz Noaman</h1>
 <h3 align="center">Bioinformatics Fresh Graduate | Native Android Developer(3 years) | Python Developer | java Spring Boot | deep neural network learner</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fandroid-developer&psig=AOvVaw3e4hqSZhbdg106w3Kw0vTq&ust=1706225727792000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKi4wKmY94MDFQAAAAAdAAAAABAD")
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fandroid-developer&psig=AOvVaw3e4hqSZhbdg106w3Kw0vTq&ust=1706225727792000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKi4wKmY94MDFQAAAAAdAAAAABAD">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moataznoaman2001&label=Profile%20views&color=0e75b6&style=flat" alt="moataznoaman2001" /> </p>
 
