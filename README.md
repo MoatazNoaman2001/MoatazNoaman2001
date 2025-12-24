@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Moataz Noaman</h1>
-<h3 align="center">Bioinformatics Graduate (2023) | ITI Open-Source Graduate 2025 | Native Android Developer (3.5 Years) | Flutter developer (1.5 Year) | Python Django Developer (3 years) | Java Spring Boot (1 Year) | Deep Neural Network Learner</h3>
+<h3 align="center">Bioinformatics Graduate (2023) | ITI Open-Source Graduate 2025 | Native Android Developer (3.5 Years) | Flutter developer (1.5 Year) | NodeJS Developer (1.8 years) | Java Spring Boot (1 Year) | Frontend (1 Year) | Deep Neural Network Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moataznoaman2001&label=Profile%20views&color=0e75b6&style=flat" alt="moataznoaman2001" /> </p>
