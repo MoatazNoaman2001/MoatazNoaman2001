@@ -1,39 +1,41 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Moataz%20Noaman&fontSize=90&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20Problem%20Solver%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=50&animation=fadeIn)
+# Hi there, I'm Moataz Noaman 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8EFC&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Engineer+%7C+2%2B+Years+Experience;Mobile+%7C+Backend+%7C+Frontend+%7C+DevOps;Building+Scalable+Solutions+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+### Fullstack Engineer | Open-Source Contributor | Problem Solver
 
-<p align="center">
-  <a href="https://linkedin.com/in/moataz-noaman-02196222a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:Moataz.noaman12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/moataz_noaman"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/moataz2415"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/moataz-noaman-02196222a)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MoatazNoaman2001)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:moataznoaman2001@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://flowcv.com/resume/m7a5j1n7ui)
 
-<img src="https://komarev.com/ghpvc/?username=moataznoaman2001&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+![Profile Views](https://komarev.com/ghpvc/?username=moataznoaman2001&color=blue&style=flat-square)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```typescript
+```javascript
 const moataz = {
     location: "Cairo, Egypt 🇪🇬",
-    education: "Bioinformatics Graduate (2023) | ITI Open-Source Graduate 2025",
-    currentRole: "Full-Stack Engineer",
-    experience: "2+ years professional experience",
-    workingOn: ["WhatsApp Business CRM", "AlvoraCore Optimization", "Freelance Projects"],
-    learning: ["Advanced System Design", "AI/ML Integration", "Microservices Architecture"],
-    expertise: {
-        mobile: ["Native Android (3.5 yrs)", "Flutter (1.5 yrs)"],
-        backend: ["Node.js/NestJS (1.8 yrs)", "Spring Boot (1 yr)", "Quarkus", "Laravel 12"],
-        frontend: ["React", "Angular", "Next.js"],
-        devops: ["Docker", "Kubernetes", "CI/CD"]
+    title: "Fullstack Engineer",
+    education: {
+        degree: "BSc in Bioinformatics",
+        university: "Assiut University",
+        graduation: 2023,
+        grade: "Very Good"
     },
-    funFact: "I can switch between 10+ tech stacks without breaking a sweat! 💪"
+    certifications: [
+        "ITI Open-Source (9-months) - 2024",
+        "DevOps Engineering - DEPI - 2024"
+    ],
+    currentWork: [
+        "Backend Engineer @ Al-vora (Portugal)",
+        "Junior Backend Node & NestJS @ otomatika (Cairo)"
+    ],
+    interests: ["Algorithms", "System Design", "DevOps", "AI/ML"]
 };
 ```
 
@@ -41,197 +43,160 @@ const moataz = {
 
 ## 💼 Professional Experience
 
-<table>
-<tr>
-<td width="50%">
+### 🏢 Current Roles
 
-### 🏢 Current Positions
+**Backend Engineer** @ [Al-vora](https://al-vora.com) • *Remote, Portugal* • `Aug 2024 - Present`
+- Developing scalable backend solutions with modern frameworks
+- Working on route optimization and scheduling systems
 
-**Backend Engineer @ Al-vora**
-- Building AlvoraCore scheduling & routing optimization
-- Tech: Quarkus, Timefold, PostgreSQL
-- GPS tracking & algorithm optimization
+**Junior Backend Node & NestJS Developer** @ [otomatika](https://otomatika.com) • *Cairo, Egypt* • `Jul 2024 - Present`
+- Building RESTful APIs with Node.js and NestJS
+- Implementing efficient database solutions
 
-**Junior Backend Developer @ otomatika**
-- Node.js & NestJS development
-- REST API design & implementation
-
-</td>
-<td width="50%">
-
-### 💰 Freelance Highlights
-
-**Upwork Success Stories**
-- PMP Certification Platform (500+ users)
-- E-commerce systems for Arab markets
-- WhatsApp Business CRM solutions
-- Multiple production applications
-
-**Active Projects**: 15+ completed | 98% satisfaction
-
-</td>
-</tr>
-</table>
+**Teaching Assistant** @ Zewail University • *Cairo, Egypt* • `Feb 2024 - Jun 2024`
+- Assisted in computer science courses
+- Mentored students in programming fundamentals
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Skills
 
-### 📱 Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### Languages
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### ⚙️ Backend Development
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### Backend Frameworks
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Frontend Frameworks
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/-Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 🗄️ Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🤖 AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-## 🎯 Featured Projects
+## 🚀 Featured Projects
+
+### 📚 [PMP Certification Platform](https://pmp.skill-sprint.com) • `Laravel 12 • PostgreSQL • Blade`
+> Comprehensive exam platform serving **500+ registered users**
+- Built 200+ practice questions across 12 PMP domains
+- Implemented user authentication and progress tracking
+- **[GitHub Repository](https://github.com/MoatazNoaman2001/exam_system)**
+
+### 🌐 [Wessol Backend](https://w9ool.com) • `Spring Boot 3 • REST API`
+> REST API Development for high-traffic application
+- Optimized API endpoints, reducing response time by **40%** (500ms → 300ms)
+- Handling 5,000+ daily users
+- **[GitHub Repository](https://github.com/MoatazNoaman2001/wessol-backend)**
+
+### 🚚 [CVRP Route Optimization](https://github.com/MoatazNoaman2001/cvrp) • `Java • Genetic Algorithm`
+> Vehicle routing optimization with advanced algorithms
+- Implemented Genetic Algorithm and Tabu Search
+- Custom JFrame user interface
+
+### 🛸 [UAV Route Optimization](https://github.com/MoatazNoaman2001/UAV-Route-Optemization) • `Java • Simulated Annealing`
+> Drone route optimization system
+- Genetic Algorithm & Simulated Annealing implementation
+
+---
+
+## 🎓 Education & Certifications
+
+**Information Technology Institute (ITI)** • *Open-Source Program* • `Oct 2024 - Present`
+- 9-month intensive training in Open-Source technologies
+- **Key Projects:**
+  - E-Learning Management System (Angular + Spring Boot V3)
+  - E-Commerce API (Node.js + Express + Mongoose)
+  - Laravel Job Board (PHP Laravel + MySQL)
+  - Cafe Center (PHP MVC + PDO)
+
+**Digital Egypt Pioneer Program (DEPI)** • *DevOps Engineer* • `Apr 2024 - Oct 2024`
+- Completed comprehensive DevOps training program
+
+**Assiut University** • *BSc in Bioinformatics* • `2019 - 2023`
+- Grade: **Very Good**
+- **Graduation Project:** Vitalism - Android app for non-invasive vital signs measurement using computer vision
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-| Project | Tech Stack | Description | Status |
-|---------|-----------|-------------|--------|
-| 🚀 **WhatsApp Business CRM** | NestJS, PostgreSQL, React | Campaign management, lead tracking, flow builders | 🟢 Active |
-| 📊 **AlvoraCore** | Quarkus, Timefold, PostgreSQL | GPS tracking & route optimization system | 🟢 Active |
-| 🎓 **PMP Certification Platform** | Laravel, MySQL, React | Serving 500+ active users | ✅ Production |
-| 🛒 **E-commerce Solutions** | MERN, Payment Gateways | Multiple Arab market platforms | ✅ Production |
-| 💰 **Investment Platform** | Spring Boot, PostgreSQL | Gold & stock trading system | 🟡 Development |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moataznoaman2001&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moataznoaman2001&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moataznoaman2001&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moataznoaman2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moataznoaman2001&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moataznoaman2001&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moataznoaman2001&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3F8EFC&line=3F8EFC&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moataznoaman2001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/moataznoaman2001/moataznoaman2001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 💡 Skills Breakdown
+## 🏆 Achievements
 
 <div align="center">
 
-```text
-Mobile Development    ████████████████████░   95%
-Backend Engineering   ███████████████████░░   90%
-Frontend Development  ██████████████████░░░   85%
-DevOps & Cloud        ████████████████░░░░░   80%
-Database Design       ███████████████████░░   90%
-System Architecture   ██████████████████░░░   85%
-AI/ML                 ███████████████░░░░░░   70%
-```
+![Trophy](https://github-profile-trophy.vercel.app/?username=moataznoaman2001&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
 
 </div>
 
 ---
 
-## 🎓 Certifications & Learning
+## 🔥 Contribution Graph
 
-- 🎯 ITI Open-Source Graduate 2025
-- 🧬 Bioinformatics Graduate (2023)
-- 📚 Currently pursuing: Advanced System Design & Microservices
-- 🤖 Deep Neural Networks & ML Engineering
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moataznoaman2001&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph)
 
 ---
 
-## 💬 Let's Connect!
+## 💡 Core Competencies
 
-<div align="center">
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-**💼 Open for:**
-- Freelance Projects
-- Technical Consulting
-- Open Source Contributions
-- Mentorship Opportunities
-
-**📧 Reach me at:** Moataz.noaman12@gmail.com
-
-**📄 Check my resume:** [View Resume](https://www.canva.com/design/DAF5fgEJLH0/10Xi5C6tezTMSPaR1B7-_g/edit)
-
-</div>
+- **Algorithms & Problem Solving:** Data Structures, Dynamic Programming, Graph Algorithms
+- **System Design:** Scalable Architecture, Microservices, API Design
+- **Version Control:** Git, GitHub, GitLab workflows
+- **Testing:** JUnit, Unit Testing, Integration Testing
+- **Soft Skills:** Fast Learning, Time Management, Team Collaboration
 
 ---
 
-## 🎵 Currently Coding To
+## 📫 Let's Connect
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=3F8EFC&bar_color_cover=true" alt="Spotify Now Playing"/>
-</div>
+I'm always interested in discussing new projects, creative ideas, or opportunities to collaborate.
+
+- 💼 **LinkedIn:** [moataz-noaman-02196222a](https://linkedin.com/in/moataz-noaman-02196222a)
+- 🐙 **GitHub:** [@MoatazNoaman2001](https://github.com/MoatazNoaman2001)
+- 📧 **Email:** moataznoaman2001@gmail.com
+- 📱 **Phone:** +20 109 851 8194
+- 📄 **Resume:** [View Full Resume](https://flowcv.com/resume/m7a5j1n7ui)
 
 ---
 
 <div align="center">
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### ⚡ "First, solve the problem. Then, write the code." - John Johnson
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
-**⭐ From [moataznoaman2001](https://github.com/moataznoaman2001) | Made with ❤️ and ☕**
+**Made with ❤️ by Moataz Noaman**
 
 </div>
