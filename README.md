@@ -53,10 +53,10 @@ const moataz: Engineer = {
 ### 🛠️ Tech Stack
 
 <details>
-<summary><b>📱 Mobile Development — 4.5 Years</b></summary>
+<summary><b>📱 Mobile Development — 1.5 Years</b></summary>
 <br>
 
-**Native Android (3.5 Years)**
+**Native Android (3.5 Years - practice)**
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
