@@ -25,10 +25,10 @@ const moataz: Engineer = {
   training: ["ITI Open-Source 9-month Track", "DEPI DevOps Program"],
 
   experience: {
-    mobile:  { "Native Android (Kotlin/Java)": "3.5 years", "Flutter/Dart": "1.5 years" },
+    mobile:  { "Native Android (Kotlin/Java)": "3.5 years - practice", "Flutter/Dart": "1.5 years" },
     backend: { "Java (Spring Boot, Quarkus)": "2 years", "Node.js (NestJS, Express)": "1.5 years",
                "PHP (Laravel)": "6 months", "Python (Django)": "3 months" },
-    frontend: ["React", "Angular", "Vue.js", "TypeScript"],
+    frontend: ["React", "Angular", "TypeScript"],
   },
 
   currently: "Building backends & hunting for the next challenge",
