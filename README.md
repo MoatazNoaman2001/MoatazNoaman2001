@@ -1,120 +1,233 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Moataz%20Noaman&fontSize=80&fontAlignY=38&desc=Fullstack%20Engineer%20|%20Mobile%20Expert%20|%20Backend%20Specialist&descAlignY=55&descAlign=50&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=280&section=header&text=Moataz%20Noaman&fontSize=75&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Mobile%20Developer%20%7C%20Fullstack&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3F8EFC&center=true&vCenter=true&random=false&width=900&lines=Mobile+App+Developer+(4.5+Years);Java+Backend+Engineer+(2+Years);Node.js+Developer+(1.5+Years);Full-Stack+Engineer+(2+Years))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&random=false&width=700&height=80&lines=Building+scalable+backends+%26+mobile+apps;Java+%E2%80%A2+Node.js+%E2%80%A2+Kotlin+%E2%80%A2+Flutter+%E2%80%A2+React)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://linkedin.com/in/moataz-noaman-02196222a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MoatazNoaman2001">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:moataz.noaman12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://flowcv.com/resume/m7a5j1n7ui">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="tel:+201098518194">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moataz-noaman-02196222a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoatazNoaman2001)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moataz.noaman12@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://flowcv.com/resume/m7a5j1n7ui)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201098518194)
 
-<img src="https://komarev.com/ghpvc/?username=moataznoaman2001&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=moataznoaman2001&label=Profile+Views&color=1f6feb&style=flat-square" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+```typescript
+const moataz: Engineer = {
+  location: "Cairo, Egypt 🇪🇬",
+  education: "BSc Bioinformatics — Assiut University (Very Good)",
+  training: ["ITI Open-Source 9-month Track", "DEPI DevOps Program"],
 
-```javascript
-const moataz = {
-    location: "Cairo, Egypt 🇪🇬",
-    title: "Fullstack Engineer",
-    phone: "+20 109 851 8194",
-    email: "moataz.noaman12@gmail.com",
-    
-    experience: {
-        mobile: {
-            "Native Android": "3 years",
-            "Flutter": "1.5 years"
-        },
-        backend: {
-            "Java/Spring Boot": "2 years",
-            "Node.js/NestJS": "1.5 years",
-            "Laravel": "6 months"
-        },
-        frontend: "React, Angular, Vue.js"
-    },
-    
-    currentWork: [
-        "Backend Engineer @ Al-vora (7 months)",
-        "Backend Developer @ LibraryInfoSpace (6 months)"
-    ],
-    
-    expertise: [
-        "Mobile Development",
-        "Backend APIs",
-        "System Design",
-        "Algorithm Optimization"
-    ]
+  experience: {
+    mobile:  { "Native Android (Kotlin/Java)": "3.5 years", "Flutter/Dart": "1.5 years" },
+    backend: { "Java (Spring Boot, Quarkus)": "2 years", "Node.js (NestJS, Express)": "1.5 years",
+               "PHP (Laravel)": "6 months", "Python (Django)": "3 months" },
+    frontend: ["React", "Angular", "Vue.js", "TypeScript"],
+  },
+
+  currently: "Building backends & hunting for the next challenge",
+
+  interests: ["Operations Research", "Route Optimization", "System Design"],
 };
 ```
 
-<br clear="right"/>
+---
+
+### 💼 Experience
+
+| Role | Company | Stack | Period |
+|:-----|:--------|:------|:-------|
+| **Backend Engineer** | LibraryInfoSpace 🇮🇳 | NestJS, TypeORM, PostgreSQL, Redis, BullMQ, React | Sep 2025 — Present |
+| **Backend Engineer** | Al-vora 🇵🇹 | Java, Quarkus, PostgreSQL, Redis, Kafka, gRPC, Docker | Jul 2025 — Mar 2026 |
+| **Fullstack Developer** | Otomatika | Node.js, MongoDB, Meta Ads API, Google Ads API, OpenAI | 2025 (2 months) |
+| **Teaching Assistant** | Zewail University 🇪🇬 | Java, Node.js, DSA, OOP | Feb — Jun 2024 |
 
 ---
 
-## 💼 Work Experience
+### 🛠️ Tech Stack
 
-**FullStack Engineer** @ Al-vora • Remote, Portugal • `7 months`
-- Route optimization & scheduling systems
-- **Stack:** Java, Quarkus, PostgreSQL, React, Microservice
+<details>
+<summary><b>📱 Mobile Development — 4.5 Years</b></summary>
+<br>
 
-**FullStack Developer** @ LibraryInfoSpace • India, Egypt • `6 months`
-- CRM 
-- **Stack:** Node , PostgreSQL, Redis, React, Redus toolkit, TypeScript 
+**Native Android (3.5 Years)**
 
-**Teaching Assistant** @ Zewail University • `Feb - Jun 2024`
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+`MVVM` `Clean Architecture` `Retrofit` `Room` `Coroutines` `Hilt` `Google Maps SDK` `CameraX` `Material Design 3`
+
+**Flutter (1.5 Years)**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+`BLoC` `Provider` `MediaSoup/WebRTC` `SQLite` `Hive` `Flutter Desktop` `Cross-platform`
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend Development — 2+ Years</b></summary>
+<br>
+
+**Java**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+`Spring Security` `Spring Data JPA` `Timefold Solver` `gRPC` `Kafka` `JUnit 5` `Mockito`
+
+**Node.js**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+`TypeORM` `Mongoose` `Prisma` `BullMQ` `JWT` `OAuth2.0` `Swagger` `Jest` `Socket.IO`
+
+**PHP & Python**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+`Eloquent ORM` `Blade` `REST APIs` `MVC`
+
+</details>
+
+<details>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>☁️ DevOps & Tools</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</details>
 
 ---
 
-## 🛠️ Technical Stack
-
-### 📱 Mobile Development (4 Years Total)
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-**Native Android (3 Years)**
+**🎓 [PMP Certification Platform](https://pmp.skill-sprint.com)**
+<br>`Laravel 12` `PostgreSQL` `Blade`
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+Exam platform serving **500+ users** with 200+ questions across 12 PMP domains, scoring engine, and session management.
 
-- MVVM Architecture
-- Retrofit & REST APIs
-- Room Database
-- Material Design
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/exam_system)
 
 </td>
 <td width="50%">
 
-**Flutter (1.5 Years)**
+**⚡ Wessol Backend**
+<br>`Spring Boot 3` `PostgreSQL` `Redis`
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+Optimized REST API reducing response time by **40%** (500ms → 300ms) for **5,000+ daily users**.
 
-- BLoC & Provider
-- REST API Integration
-- SQLite & Hive
-- Cross-platform Apps
+[![Website](https://img.shields.io/badge/Live-w9ool.com-1f6feb?style=flat-square)](https://w9ool.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📡 EasyDo CRM** *(work project)*
+<br>`NestJS` `TypeORM` `PostgreSQL` `Redis` `BullMQ`
+
+WhatsApp Business API CRM with AES-128-GCM encryption, campaign queues, webhook processing, and RBAC.
+
+</td>
+<td width="50%">
+
+**📺 Laikji — Live Streaming**
+<br>`Flutter` `MediaSoup` `WebRTC` `BLoC`
+
+Cross-platform (mobile + desktop) streaming app with real-time video/audio via MediaSoup SFU, 11 months of development.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🚚 [CVRP Route Optimization](https://github.com/MoatazNoaman2001/cvrp)**
+<br>`Java` `Genetic Algorithm` `Tabu Search`
+
+Vehicle routing optimization using metaheuristic algorithms with multithreading (ExecutorService, CompletableFuture).
+
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/cvrp)
+
+</td>
+<td width="50%">
+
+**🩺 [Vitalism](https://github.com/MoatazNoaman2001/ncnn_Android_mediapipe_blazeface_rppg)** *(graduation project)*
+<br>`Android` `C++` `OpenCV` `NCNN` `MediaPipe`
+
+Non-invasive vital signs measurement (HR, SpO2, BP) using rPPG and on-device ML with BlazeFace face detection.
+
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/ncnn_Android_mediapipe_blazeface_rppg) ![Stars](https://img.shields.io/github/stars/MoatazNoaman2001/ncnn_Android_mediapipe_blazeface_rppg?style=flat-square&color=yellow)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🛸 [UAV Route Optimization](https://github.com/MoatazNoaman2001/UAV-Route-Optemization)**
+<br>`Java` `Simulated Annealing`
+
+Drone route optimization using metaheuristic algorithms.
+
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/UAV-Route-Optemization)
+
+</td>
+<td width="50%">
+
+**🏠 Real Estate Management**
+<br>`Flutter Desktop` `SQLite` `REST APIs`
+
+Desktop application for managing property listings, contracts, financial tracking, and client data for a real estate company.
 
 </td>
 </tr>
@@ -122,169 +235,40 @@ const moataz = {
 
 ---
 
-### ⚙️ Backend Development
-
-**Java (2 Years)**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
-
-**Node.js (1.5 Years)**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**PHP (6 Months)**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Python (Recently Learned)**
-
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-
----
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
----
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-### ☁️ DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🚀 Featured Projects
-
-### [PMP Certification Platform](https://pmp.skill-sprint.com) 🎓
-**Laravel • PostgreSQL** • **500+ Users**
-
-Comprehensive exam platform with 200+ practice questions across 12 PMP domains.
-
-[GitHub →](https://github.com/MoatazNoaman2001/exam_system)
-
----
-
-### [Wessol Backend](https://w9ool.com) ⚡
-**Spring Boot 3 • PostgreSQL** • **5,000+ Daily Users**
-
-Optimized API reducing response time by **40%** (500ms → 300ms).
-
----
-
-### CVRP Route Optimization 🚚
-**Java • Genetic Algorithm • Tabu Search**
-
-Vehicle routing optimization with advanced algorithms and custom GUI.
-
-[GitHub →](https://github.com/MoatazNoaman2001/cvrp)
-
----
-
-### UAV Route Optimization 🛸
-**Java • Simulated Annealing**
-
-Drone route optimization using genetic algorithms.
-
-[GitHub →](https://github.com/MoatazNoaman2001/UAV-Route-Optemization)
-
----
-
-### Vitalism (Graduation Project) 🩺
-**Native Android • OpenCV • ML**
-
-Non-invasive vital signs measurement using computer vision and portable cameras.
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moataznoaman2001&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moataznoaman2001&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=moataznoaman2001&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moataznoaman2001&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moataznoaman2001&theme=radical&hide_border=true)
+<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=moataznoaman2001&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=moataznoaman2001&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
+<img width="700" src="https://github-profile-trophy.vercel.app/?username=moataznoaman2001&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 </div>
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
-**BSc in Bioinformatics** • Assiut University • `2019-2023` • Very Good
-
-**ITI Open-Source (9-months)** • `2024-Present`
-
-**DevOps Engineering** • DEPI • `2024`
-
----
-
-## 💡 Skills Summary
-
-```text
-Native Android Development    ████████████████████░   95%  (3.5 Years)
-Flutter Development           ███████████████████░░   90%  (1.5 Years)
-Java Backend                  ███████████████████░░   92%  (2 Years)
-Node.js Backend               ██████████████████░░░   88%  (1.5 Years)
-Frontend Development          ██████████████████░░░   85%  (React/Angular/Vue)
-DevOps & Cloud                ███████████████░░░░░░   75%  (Docker/K8s/AWS)
-Algorithms & Problem Solving  ███████████████████░░   90%  (DSA/Optimization)
-```
-
----
-
-## 📬 Contact Me
-
-<div align="center">
-
-📧 **moataz.noaman12@gmail.com**  
-📱 **+20 109 851 8194**  
-📍 **Cairo, Egypt**  
-📄 **[View Resume](https://flowcv.com/resume/m7a5j1n7ui)**
-
-<p>
-  <a href="https://linkedin.com/in/moataz-noaman-02196222a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/MoatazNoaman2001">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
-### 💼 Open For
-Freelance Projects • Full-time Opportunities • Technical Consulting
-
-</div>
+| Degree / Program | Institution | Year |
+|:-----------------|:------------|:-----|
+| **Open-Source Track** (9 months) | Information Technology Institute (ITI) | 2024 — Present |
+| **DevOps Engineering** | Digital Egypt Pioneer Program (DEPI) | 2024 |
+| **BSc in Bioinformatics** — Very Good | Assiut University | 2019 — 2023 |
 
 ---
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+### 💬 Let's Connect
 
-**⭐ Made with ❤️ by Moataz Noaman**
+I'm open to **remote backend roles**, **mobile development contracts**, and **freelance projects**.
+
+[![Email](https://img.shields.io/badge/moataz.noaman12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moataz.noaman12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moataz-noaman-02196222a)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer)
 
 </div>
