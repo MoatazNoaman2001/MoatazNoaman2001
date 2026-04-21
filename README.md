@@ -157,7 +157,7 @@ const moataz: Engineer = {
 **🎓 [Sprint Skills — PMP Certification Platform](https://pmp.skill-sprint.com/)**
 <br>`Laravel 12` `PostgreSQL` `Blade`
 
-Exam platform serving **500+ users** with 200+ questions across 12 PMP domains, scoring engine, and session management.
+Exam platform with 200+ questions across 12 PMP domains, scoring engine, and session management.
 
 [![Live](https://img.shields.io/badge/Live-pmp.skill--sprint.com-1f6feb?style=flat-square)](https://pmp.skill-sprint.com/) [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/exam_system)
 
