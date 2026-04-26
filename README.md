@@ -46,7 +46,7 @@ const moataz: Engineer = {
 | **Backend Engineer** | LibraryInfoSpace 🇮🇳 | NestJS, TypeORM, PostgreSQL, Redis, BullMQ, React | Sep 2025 — Present |
 | **Backend Engineer** | Al-vora 🇵🇹 | Java, Quarkus, PostgreSQL, Redis, Kafka, gRPC, Docker | Jul 2025 — Mar 2026 |
 | **Fullstack Developer** | Otomatika | Node.js, MongoDB, Meta Ads API, Google Ads API, OpenAI | 2025 (2 months) |
-| **Teaching Assistant** | Zewail University 🇪🇬 | Java, Node.js, DSA, OOP | Feb — Jun 2024 |
+| **Teaching Assistant** | Zewail University 🇪🇬 | Computer Networks | Feb — Jun 2024 |
 
 ---
 
