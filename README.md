@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=280&section=header&text=Moataz%20Noaman&fontSize=75&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Mobile%20Developer%20%7C%20Fullstack&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&random=false&width=700&height=80&lines=Building+scalable+backends+%26+mobile+apps;Java+%E2%80%A2+Node.js+%E2%80%A2+Flutter+%E2%80%A2+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&random=false&width=700&height=80&lines=Building+the+systems+businesses+run+on;Node.js+%E2%80%A2+Java+%E2%80%A2+Laravel+%E2%80%A2+Flutter)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moataz-noaman-02196222a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoatazNoaman2001)
@@ -21,18 +21,26 @@
 ```typescript
 const moataz: Engineer = {
   location: "Cairo, Egypt 🇪🇬",
+  experience: "2 years 8 months, remote",
   education: "BSc Bioinformatics — Assiut University (GPA 3.43, Very Good)",
   training: ["ITI Open-Source 9-month Track (Oct 2024 — Jul 2025)", "DEPI DevOps Program"],
 
-  experience: {
-    backend: { "Java (Spring Boot, Quarkus)": "2 years", "Node.js (NestJS, Express)": "1.5 years",
-               "PHP (Laravel)": "6 months", "Python (Django)": "3 months" },
-    mobile:  { "Flutter/Dart": "1.5 years (production)", "Native Android (Kotlin/Java)": "practical" },
-    frontend: ["React", "Angular", "TypeScript", "Tailwind CSS"],
+  whatIBuild: "The operational systems businesses actually run on — " +
+              "accounting, inventory, CRM, ERP dashboards, care platforms",
+
+  stack: {
+    backend:  { "Node.js (Express, TypeScript)": "primary",
+                "Java (Quarkus)": "9 months production",
+                "PHP (Laravel)": "2 systems live in production",
+                "Python (Odoo 18, Django)": "module development" },
+    mobile:   { "Flutter/Dart": "production, 70-screen app",
+                "Native Android (Kotlin/Java)": "practical" },
+    frontend: ["React", "Next.js", "Angular", "TypeScript", "Tailwind CSS"],
+    data:     "PostgreSQL is under nearly everything — transactions, " +
+              "stored procedures, row-level security, audit trails",
   },
 
-  currently: "Building backends & hunting for the next challenge",
-
+  currently: "Open to work — backend, fullstack or mobile",
   interests: ["Operations Research", "Route Optimization", "System Design"],
 };
 ```
@@ -43,41 +51,44 @@ const moataz: Engineer = {
 
 | Role | Company | Stack | Period |
 |:-----|:--------|:------|:-------|
-| **Backend Engineer** | LibraryInfoSpace 🇮🇳 | NestJS, TypeORM, PostgreSQL, Redis, BullMQ, React | Sep 2025 — Present |
-| **Backend Engineer** | Al-vora 🇵🇹 | Java, Quarkus, PostgreSQL, Redis, Kafka, gRPC, Docker | Jul 2025 — Mar 2026 |
+| **Full-Stack Developer** | Red Software Development | Node.js, TypeScript, Next.js, Flutter, PostgreSQL (Cloud SQL), Google Cloud | May 2026 — Aug 2026 |
+| **Fullstack Engineer** | LibraryInfoSpace 🇮🇳 | Express, TypeScript, PostgreSQL, Redis, BullMQ, Socket.IO, React | Sep 2025 — Apr 2026 |
+| **Backend Engineer** | Al-vora 🇵🇹 | Java, Quarkus, Timefold Solver, PostgreSQL, Redis, gRPC, Docker | Jul 2025 — Mar 2026 |
 | **Fullstack Developer** | Otomatika | Node.js, MongoDB, Meta Ads API, Google Ads API, OpenAI | 2025 (2 months) |
-| **Teaching Assistant** | Zewail University 🇪🇬 | Computer Networks | Feb — Jun 2024 |
+| **Teaching Assistant** | Zewail University 🇪🇬 | Computer Networks, Network Programming | Feb — Jun 2024 |
 
 ---
 
 ### 🛠️ Tech Stack
 
 <details>
-<summary><b>⚙️ Backend Development — 2+ Years</b></summary>
+<summary><b>⚙️ Backend Development</b></summary>
 <br>
+
+**Node.js — primary**
+
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+`TypeORM` `Prisma` `Mongoose` `BullMQ` `Redis queues` `JWT` `OAuth2.0` `WebAuthn` `Swagger/OpenAPI` `Socket.IO` `Server-Sent Events` `Jest` `Vitest`
 
 **Java**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
-`Spring Security` `Spring Data JPA` `Timefold Solver` `gRPC` `Kafka` `JUnit 5` `Mockito`
-
-**Node.js**
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-`TypeORM` `Mongoose` `Prisma` `BullMQ` `JWT` `OAuth2.0` `Swagger` `Jest` `Socket.IO`
+`Hibernate/JPA` `Timefold Solver` `gRPC` `Maven` `JUnit 5` `Mockito` — *Quarkus in production; Spring Boot, Spring Security and Spring Data JPA on my own projects*
 
 **PHP & Python**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-`Eloquent ORM` `Blade` `REST APIs` `MVC`
+`Eloquent ORM` `Blade` `Middleware` `Policies & Gates` `Queues & Jobs` `Events & Listeners` `Sanctum` `Odoo 18 (OWL)`
+
+**Currently learning:** `NestJS`
 
 </details>
 
@@ -85,12 +96,12 @@ const moataz: Engineer = {
 <summary><b>📱 Mobile Development</b></summary>
 <br>
 
-**Flutter (1.5 Years — Production)**
+**Flutter — production**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-`BLoC` `Provider` `MediaSoup/WebRTC` `SQLite` `Hive` `Flutter Desktop` `Cross-platform`
+`BLoC/Cubit` `Provider` `Drift/SQLite` `Offline-first sync` `Hardware-backed secure storage` `MediaSoup/WebRTC` `Flutter Desktop` `Codemagic`
 
 **Native Android (Practical)**
 
@@ -107,12 +118,15 @@ const moataz: Engineer = {
 <br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+
+`App Router` `Server Components` `TanStack Query` `PWA` `i18n & RTL`
 
 </details>
 
@@ -124,8 +138,11 @@ const moataz: Engineer = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+`Row-level security` `Stored procedures` `Transactions` `Migrations` `Query optimisation` `PowerSync`
 
 </details>
 
@@ -134,15 +151,18 @@ const moataz: Engineer = {
 <br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+`Docker Compose` `CI/CD pipelines` `Prometheus metrics` `Health checks` `Claude Code in daily use`
+
+**From DEPI DevOps training:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 </details>
 
@@ -154,20 +174,20 @@ const moataz: Engineer = {
 <tr>
 <td width="50%">
 
-**🎓 [Sprint Skills — PMP Certification Platform](https://pmp.skill-sprint.com/)**
-<br>`Laravel 12` `PostgreSQL` `Blade`
+**🌍 [Orphan Data Observatory](https://goco.orphans.care)** *(freelance · live)*
+<br>`Laravel` `PostgreSQL` `Blade` `RBAC`
 
-Exam platform with 200+ questions across 12 PMP domains, scoring engine, and session management.
+Bilingual Arabic/English platform publishing orphan-care indicators for **166 countries**. Every figure carries its source, year and an A–E confidence grade, and missing data is published as a declared gap. Partner submissions pass through a seven-stage review with four roles and an append-only audit log. ~1,400 published figures.
 
-[![Live](https://img.shields.io/badge/Live-pmp.skill--sprint.com-1f6feb?style=flat-square)](https://pmp.skill-sprint.com/) [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/exam_system)
+[![Live](https://img.shields.io/badge/Live-goco.orphans.care-1f6feb?style=flat-square)](https://goco.orphans.care)
 
 </td>
 <td width="50%">
 
-**🏗️ [Al-Haj Salim — Steel & Cement Accounting](https://al-haj-salim-steel-cement-accountin.vercel.app/dashboard)**
-<br>`Next.js` `Supabase` `PWA`
+**🏗️ [Al-Haj Salim — Steel & Cement Accounting](https://al-haj-salim-steel-cement-accountin.vercel.app/dashboard)** *(freelance · live)*
+<br>`Next.js` `TypeScript` `Supabase` `PWA`
 
-Full accounting system for a building materials distributor in Assiut. Features audit trails, no-deletion policy, and inventory tracking.
+Accounting and inventory system for a distributor who ran everything on spreadsheets. **52 Postgres functions** so one sale posts to inventory, the customer ledger, the driver account and the bank book together or not at all. **79 row-level-security policies**, correction-only records, and offline-first sync that replays writes on reconnect. Entirely in Arabic.
 
 [![Live](https://img.shields.io/badge/Live-Dashboard-1f6feb?style=flat-square)](https://al-haj-salim-steel-cement-accountin.vercel.app/dashboard)
 
@@ -176,20 +196,40 @@ Full accounting system for a building materials distributor in Assiut. Features 
 <tr>
 <td width="50%">
 
-**🥇 [Gold E-Commerce](https://gold-frontend-pi.vercel.app/)** *(ITI graduation)*
-<br>`Node.js` `Express` `MongoDB` `Socket.IO`
+**📡 EasyDo CRM** *(work project)*
+<br>`Express` `TypeScript` `PostgreSQL` `Redis` `BullMQ`
 
-Full e-commerce platform for buying & reverse-selling gold with three roles (Admin, Seller, User) and real-time chat between sellers and buyers.
-
-[![Live](https://img.shields.io/badge/Live-Demo-1f6feb?style=flat-square)](https://gold-frontend-pi.vercel.app/) [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/Gold-Backend)
+Multi-tenant WhatsApp Business CRM. Joined an early-stage codebase as main backend developer and grew it to **37 tables and ~217 REST endpoints**. Campaign queue with per-message delivery tracking, RSA-encrypted WhatsApp Flows, HMAC webhook verification, and a Gemini assistant answering from each tenant's own documents.
 
 </td>
 <td width="50%">
 
-**📡 EasyDo CRM** *(work project)*
-<br>`NestJS` `TypeORM` `PostgreSQL` `Redis` `BullMQ`
+**📊 Itqan — Odoo 18 Analytics Dashboards** *(freelance)*
+<br>`Python` `Odoo 18` `OWL` `Chart.js` `PostgreSQL`
 
-WhatsApp Business API CRM with AES-128-GCM encryption, campaign queues, webhook processing, and RBAC.
+Five dashboards for a retail group covering inventory, car sales, fashion, finance and HR — written as native OWL components rather than on a paid dashboard module. Stock valued from real valuation layers, dead-stock detection, per-branch turnover.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎓 [Sprint Skills — PMP Certification Platform](https://pmp.skill-sprint.com/)** *(freelance · live)*
+<br>`Laravel 12` `PostgreSQL` `Blade`
+
+Exam platform serving 100+ users, with 200+ questions across 12 PMP domains, a scoring engine and session management.
+
+[![Live](https://img.shields.io/badge/Live-pmp.skill--sprint.com-1f6feb?style=flat-square)](https://pmp.skill-sprint.com/) [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/exam_system)
+
+</td>
+<td width="50%">
+
+**🥇 [Gold E-Commerce](https://gold-frontend-pi.vercel.app/)** *(ITI graduation)*
+<br>`Node.js` `Express` `MongoDB` `Socket.IO`
+
+Full e-commerce platform for buying and reverse-selling gold with three roles (Admin, Seller, User) and real-time chat between sellers and buyers.
+
+[![Live](https://img.shields.io/badge/Live-Demo-1f6feb?style=flat-square)](https://gold-frontend-pi.vercel.app/) [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/Gold-Backend)
 
 </td>
 </tr>
@@ -199,7 +239,7 @@ WhatsApp Business API CRM with AES-128-GCM encryption, campaign queues, webhook 
 **🚚 [CVRP Route Optimization](https://github.com/MoatazNoaman2001/cvrp)**
 <br>`Java` `Genetic Algorithm` `Tabu Search`
 
-Capacitated Vehicle Routing solver using metaheuristic algorithms with multithreading (ExecutorService, CompletableFuture) and custom Java GUI.
+Capacitated Vehicle Routing solver using metaheuristics, parallelised with ExecutorService and CompletableFuture, with a custom Java GUI.
 
 [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/cvrp)
 
@@ -221,17 +261,17 @@ Drone supply delivery optimization for urban areas using Simulated Annealing and
 **🩺 [Vitalism](https://github.com/MoatazNoaman2001/ncnn_Android_mediapipe_blazeface_rppg)** *(BSc graduation)*
 <br>`Android` `C++` `OpenCV` `NCNN` `MediaPipe`
 
-Non-invasive vital signs measurement (HR, SpO2, BP) using rPPG and on-device ML with BlazeFace face detection.
+Non-invasive vital signs measurement (HR, SpO2, BP) using rPPG and on-device ML with BlazeFace face detection, through a JNI C++ bridge.
 
 [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/ncnn_Android_mediapipe_blazeface_rppg) ![Stars](https://img.shields.io/github/stars/MoatazNoaman2001/ncnn_Android_mediapipe_blazeface_rppg?style=flat-square&color=yellow)
 
 </td>
 <td width="50%">
 
-**🏠 Real Estate Management**
-<br>`Flutter Desktop` `Dart` `SQLite`
+**💬 Laikji — Chat Rooms & Streaming** *(Google Play)*
+<br>`Flutter` `WebRTC` `MediaSoup` `Node.js`
 
-Desktop application for managing property listings, contracts, financial tracking, and client data for a real estate company in Assiut.
+Cross-platform chat rooms with real-time messaging and live media streaming, plus the Node.js WebSocket server behind it handling multi-user auth and roles.
 
 </td>
 </tr>
@@ -239,21 +279,19 @@ Desktop application for managing property listings, contracts, financial trackin
 <td width="50%">
 
 **⚡ [Wessol Backend](https://github.com/MoatazNoaman2001/wessol_back)** *(early phase)*
-<br>`Spring Boot 3` `PostgreSQL` `Redis`
+<br>`Spring Boot 3` `Spring Data JPA` `PostgreSQL` `Redis`
 
-Initial backend phase with REST API design, Redis caching, and JPA Specifications.
+REST API with Redis caching, JPA Specifications and pagination strategies.
 
 [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/wessol_back)
 
 </td>
 <td width="50%">
 
-**🌐 [Bellatrix](https://github.com/MoatazNoaman2001/Bellatrix_backend)** *(corporate site backend)*
-<br>`Node.js` `Express` `MongoDB`
+**🏠 Real Estate Management**
+<br>`Flutter Desktop` `Dart` `SQLite` `BLoC`
 
-Backend for a software company website managing services, solutions, customization, consulting, and industries pages.
-
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/Bellatrix_backend)
+Desktop application for managing property listings, contracts, financial tracking and client data for a real estate company in Assiut.
 
 </td>
 </tr>
@@ -290,7 +328,8 @@ Backend for a software company website managing services, solutions, customizati
 
 ### 💬 Let's Connect
 
-I'm open to **remote backend roles**, **mobile development contracts**, and **freelance projects**.
+Open to **remote backend, fullstack and mobile roles**, plus **freelance projects**.
+Available immediately.
 
 [![Email](https://img.shields.io/badge/moataz.noaman12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moataz.noaman12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moataz-noaman-02196222a)
