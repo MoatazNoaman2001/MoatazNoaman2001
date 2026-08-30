@@ -1,339 +1,145 @@
-<div align="center">
+# Moataz Noaman
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=280&section=header&text=Moataz%20Noaman&fontSize=75&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Mobile%20Developer%20%7C%20Fullstack&descAlignY=55&descAlign=50&animation=fadeIn&fontColor=ffffff)
+Backend and fullstack engineer in Cairo. I build the operational systems businesses
+actually run on: accounting and inventory, CRM, ERP dashboards, review workflows,
+care platforms. Two years and eight months of remote production work.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&random=false&width=700&height=80&lines=Building+the+systems+businesses+run+on;Node.js+%E2%80%A2+Java+%E2%80%A2+Laravel+%E2%80%A2+Flutter)](https://git.io/typing-svg)
+Most of it comes back to the data layer — transactions that hold up, permissions
+enforced in the database rather than the interface, and audit trails that still make
+sense six months later.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moataz-noaman-02196222a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoatazNoaman2001)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moataz.noaman12@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://flowcv.com/resume/m7a5j1n7ui)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201098518194)
+[moataz.noaman12@gmail.com](mailto:moataz.noaman12@gmail.com) ·
+[LinkedIn](https://linkedin.com/in/moataz-noaman-02196222a) ·
+[Résumé](https://flowcv.com/resume/m7a5j1n7ui) ·
+[WhatsApp](https://wa.me/201098518194)
 
-<img src="https://komarev.com/ghpvc/?username=moataznoaman2001&label=Profile+Views&color=1f6feb&style=flat-square" alt="Profile Views"/>
-
-</div>
-
----
-
-### 🧑‍💻 About Me
-
-```typescript
-const moataz: Engineer = {
-  location: "Cairo, Egypt 🇪🇬",
-  experience: "2 years 8 months, remote",
-  education: "BSc Bioinformatics — Assiut University (GPA 3.43, Very Good)",
-  training: ["ITI Open-Source 9-month Track (Oct 2024 — Jul 2025)", "DEPI DevOps Program"],
-
-  whatIBuild: "The operational systems businesses actually run on — " +
-              "accounting, inventory, CRM, ERP dashboards, care platforms",
-
-  stack: {
-    backend:  { "Node.js (Express, TypeScript)": "primary",
-                "Java (Quarkus)": "9 months production",
-                "PHP (Laravel)": "2 systems live in production",
-                "Python (Odoo 18, Django)": "module development" },
-    mobile:   { "Flutter/Dart": "production, 70-screen app",
-                "Native Android (Kotlin/Java)": "practical" },
-    frontend: ["React", "Next.js", "Angular", "TypeScript", "Tailwind CSS"],
-    data:     "PostgreSQL is under nearly everything — transactions, " +
-              "stored procedures, row-level security, audit trails",
-  },
-
-  currently: "Open to work — backend, fullstack or mobile",
-  interests: ["Operations Research", "Route Optimization", "System Design"],
-};
-```
+**Open to remote backend, fullstack and mobile roles, and to freelance work. Available immediately.**
 
 ---
 
-### 💼 Experience
+## Experience
 
 | Role | Company | Stack | Period |
 |:-----|:--------|:------|:-------|
-| **Full-Stack Developer** | Red Software Development | Node.js, TypeScript, Next.js, Flutter, PostgreSQL (Cloud SQL), Google Cloud | May 2026 — Aug 2026 |
-| **Fullstack Engineer** | LibraryInfoSpace 🇮🇳 | Express, TypeScript, PostgreSQL, Redis, BullMQ, Socket.IO, React | Sep 2025 — Apr 2026 |
-| **Backend Engineer** | Al-vora 🇵🇹 | Java, Quarkus, Timefold Solver, PostgreSQL, Redis, gRPC, Docker | Jul 2025 — Mar 2026 |
-| **Fullstack Developer** | Otomatika | Node.js, MongoDB, Meta Ads API, Google Ads API, OpenAI | 2025 (2 months) |
-| **Teaching Assistant** | Zewail University 🇪🇬 | Computer Networks, Network Programming | Feb — Jun 2024 |
+| Full-Stack Developer | Red Software Development | Node.js, TypeScript, Next.js, Flutter, PostgreSQL (Cloud SQL), Google Cloud | May 2026 – Aug 2026 |
+| Fullstack Engineer | LibraryInfoSpace, India | Express, TypeScript, PostgreSQL, Redis, BullMQ, Socket.IO, React | Sep 2025 – Apr 2026 |
+| Backend Engineer | Al-vora, Portugal | Java, Quarkus, Timefold Solver, PostgreSQL, Redis, gRPC, Docker | Jul 2025 – Mar 2026 |
+| Fullstack Developer | Otomatika | Node.js, MongoDB, Meta Ads API, Google Ads API, OpenAI | 2025, 2 months |
+| Teaching Assistant | Zewail University | Computer Networks, Network Programming | Feb – Jun 2024 |
 
 ---
 
-### 🛠️ Tech Stack
+## Selected work
 
-<details>
-<summary><b>⚙️ Backend Development</b></summary>
-<br>
+### [Orphan Data Observatory](https://goco.orphans.care) · live
+`Laravel` `PostgreSQL` `Blade` `RBAC`
 
-**Node.js — primary**
+A bilingual Arabic and English platform publishing orphan-care indicators for 166
+countries. No figure goes public without its source, its year and a confidence grade
+from A to E, and where no acceptable number exists the gap is published as a declared
+gap rather than left blank. Partner organisations submit figures that move through a
+seven-stage review with four roles, per-item decisions and an append-only audit log.
+Around 1,400 published figures in production.
 
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+### [Al-Haj Salim — Steel & Cement Accounting](https://al-haj-salim-steel-cement-accountin.vercel.app/dashboard) · live
+`Next.js` `TypeScript` `Supabase` `PWA`
 
-`TypeORM` `Prisma` `Mongoose` `BullMQ` `Redis queues` `JWT` `OAuth2.0` `WebAuthn` `Swagger/OpenAPI` `Socket.IO` `Server-Sent Events` `Jest` `Vitest`
+An accounting and inventory system for a distributor who was running everything on
+spreadsheets. A single sale has to post to inventory, the customer ledger, the driver
+account and the bank book together or not at all, so that lives in 52 Postgres
+functions rather than application code. 79 row-level-security policies enforce access
+in the database, including hiding profit from cashiers. Nothing is ever edited or
+deleted — corrections are linked entries and the original stays visible. Works offline
+and replays writes on reconnect. Entirely in Arabic, right to left.
 
-**Java**
+### EasyDo CRM · work project
+`Express` `TypeScript` `PostgreSQL` `Redis` `BullMQ`
 
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+A multi-tenant WhatsApp Business CRM. I joined an early-stage codebase as the main
+backend developer and grew it to 37 Postgres tables and around 217 REST endpoints.
+Campaign queue on Redis and BullMQ with per-message delivery tracking, RSA-encrypted
+WhatsApp Flows, HMAC webhook verification, and a Gemini assistant answering from each
+tenant's own uploaded documents with their keys encrypted at rest.
 
-`Hibernate/JPA` `Timefold Solver` `gRPC` `Maven` `JUnit 5` `Mockito` — *Quarkus in production; Spring Boot, Spring Security and Spring Data JPA on my own projects*
+### Itqan — Odoo 18 Analytics Dashboards · freelance
+`Python` `Odoo 18` `OWL` `Chart.js` `PostgreSQL`
 
-**PHP & Python**
+Five dashboards for a retail group covering inventory, car sales, fashion, finance and
+HR, written as native OWL components rather than bought as a dashboard module. Stock is
+valued from Odoo's real valuation layers instead of the cost field, which is usually
+stale, and the finance figures were reconciled line by line against the client's own
+accountant.
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+### [Sprint Skills — PMP Certification Platform](https://pmp.skill-sprint.com/) · live
+`Laravel 12` `PostgreSQL` `Blade` · [source](https://github.com/MoatazNoaman2001/exam_system)
 
-`Eloquent ORM` `Blade` `Middleware` `Policies & Gates` `Queues & Jobs` `Events & Listeners` `Sanctum` `Odoo 18 (OWL)`
+An exam platform serving 100+ users, with 200+ questions across 12 PMP knowledge
+domains, a scoring engine, attempt history and session management.
 
-**Currently learning:** `NestJS`
+### [Gold E-Commerce](https://gold-frontend-pi.vercel.app/) · ITI graduation project
+`Node.js` `Express` `MongoDB` `Socket.IO` · [source](https://github.com/MoatazNoaman2001/Gold-Backend)
 
-</details>
+A platform for buying and reverse-selling gold, with three roles and real-time chat
+between sellers and buyers over Socket.IO with message persistence.
 
-<details>
-<summary><b>📱 Mobile Development</b></summary>
-<br>
+### Optimisation work
+`Java` `Genetic Algorithm` `Tabu Search` `Simulated Annealing`
 
-**Flutter — production**
+[CVRP Route Optimization](https://github.com/MoatazNoaman2001/cvrp) — a capacitated
+vehicle routing solver using metaheuristics, parallelised with ExecutorService and
+CompletableFuture. [UAV Route Optimization](https://github.com/MoatazNoaman2001/UAV-Route-Optemization) —
+drone supply delivery for urban areas. The same interest turned up at work: the
+scheduling engine at Al-vora runs on a constraint solver over more than two hundred
+properties per solve.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+### [Vitalism](https://github.com/MoatazNoaman2001/ncnn_Android_mediapipe_blazeface_rppg) · BSc graduation project
+`Android` `C++` `OpenCV` `NCNN` `MediaPipe`
 
-`BLoC/Cubit` `Provider` `Drift/SQLite` `Offline-first sync` `Hardware-backed secure storage` `MediaSoup/WebRTC` `Flutter Desktop` `Codemagic`
+Non-invasive measurement of heart rate, SpO2 and blood pressure from a phone camera
+using rPPG, with on-device inference through a JNI C++ bridge. Open source.
 
-**Native Android (Practical)**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-`MVVM` `Clean Architecture` `Retrofit` `Room` `Coroutines` `Hilt` `Google Maps SDK` `CameraX`
-
-</details>
-
-<details>
-<summary><b>🎨 Frontend</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-
-`App Router` `Server Components` `TanStack Query` `PWA` `i18n & RTL`
-
-</details>
-
-<details>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-`Row-level security` `Stored procedures` `Transactions` `Migrations` `Query optimisation` `PowerSync`
-
-</details>
-
-<details>
-<summary><b>☁️ DevOps & Tools</b></summary>
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-`Docker Compose` `CI/CD pipelines` `Prometheus metrics` `Health checks` `Claude Code in daily use`
-
-**From DEPI DevOps training:** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-</details>
+### Also
+**Laikji** — Flutter chat rooms and live streaming over WebRTC and MediaSoup, published
+on Google Play, with the Node.js WebSocket server behind it.
+**[Wessol Backend](https://github.com/MoatazNoaman2001/wessol_back)** — Spring Boot 3
+REST API with Redis caching and JPA Specifications.
+**Real Estate Management** — Flutter Desktop app for property listings, contracts and
+financial tracking.
 
 ---
 
-### 🚀 Featured Projects
+## Tech
 
-<table>
-<tr>
-<td width="50%">
+**Node.js** — Express, TypeScript, TypeORM, Prisma, Mongoose, BullMQ and Redis queues,
+Socket.IO, server-sent events, JWT and OAuth 2.0, WebAuthn, OpenAPI, Jest, Vitest.
+Learning NestJS.
 
-**🌍 [Orphan Data Observatory](https://goco.orphans.care)** *(freelance · live)*
-<br>`Laravel` `PostgreSQL` `Blade` `RBAC`
+**Java** — Quarkus in production; Spring Boot, Spring Security and Spring Data JPA on my
+own projects. Hibernate/JPA, Timefold Solver, gRPC, Maven, JUnit 5, Mockito.
 
-Bilingual Arabic/English platform publishing orphan-care indicators for **166 countries**. Every figure carries its source, year and an A–E confidence grade, and missing data is published as a declared gap. Partner submissions pass through a seven-stage review with four roles and an append-only audit log. ~1,400 published figures.
+**PHP and Python** — Laravel with Eloquent, Blade, middleware, policies and gates, queues
+and jobs, events and listeners, Sanctum. Odoo 18 module development in Python, and Django.
 
-[![Live](https://img.shields.io/badge/Live-goco.orphans.care-1f6feb?style=flat-square)](https://goco.orphans.care)
+**Frontend** — React, Next.js (App Router, Server Components), Angular, Vue, TypeScript,
+Tailwind, Redux Toolkit, TanStack Query, PWA, i18n and RTL.
 
-</td>
-<td width="50%">
+**Mobile** — Flutter and Dart in production: BLoC, Drift and SQLite, offline-first sync,
+hardware-backed secure storage, Codemagic. Native Android in Kotlin with MVVM, Retrofit,
+Room, Coroutines and Hilt.
 
-**🏗️ [Al-Haj Salim — Steel & Cement Accounting](https://al-haj-salim-steel-cement-accountin.vercel.app/dashboard)** *(freelance · live)*
-<br>`Next.js` `TypeScript` `Supabase` `PWA`
+**Data** — PostgreSQL (transactions, stored procedures, row-level security), MySQL,
+MongoDB, Redis, Supabase, Firebase, SQLite, PowerSync.
 
-Accounting and inventory system for a distributor who ran everything on spreadsheets. **52 Postgres functions** so one sale posts to inventory, the customer ledger, the driver account and the bank book together or not at all. **79 row-level-security policies**, correction-only records, and offline-first sync that replays writes on reconnect. Entirely in Arabic.
-
-[![Live](https://img.shields.io/badge/Live-Dashboard-1f6feb?style=flat-square)](https://al-haj-salim-steel-cement-accountin.vercel.app/dashboard)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📡 EasyDo CRM** *(work project)*
-<br>`Express` `TypeScript` `PostgreSQL` `Redis` `BullMQ`
-
-Multi-tenant WhatsApp Business CRM. Joined an early-stage codebase as main backend developer and grew it to **37 tables and ~217 REST endpoints**. Campaign queue with per-message delivery tracking, RSA-encrypted WhatsApp Flows, HMAC webhook verification, and a Gemini assistant answering from each tenant's own documents.
-
-</td>
-<td width="50%">
-
-**📊 Itqan — Odoo 18 Analytics Dashboards** *(freelance)*
-<br>`Python` `Odoo 18` `OWL` `Chart.js` `PostgreSQL`
-
-Five dashboards for a retail group covering inventory, car sales, fashion, finance and HR — written as native OWL components rather than on a paid dashboard module. Stock valued from real valuation layers, dead-stock detection, per-branch turnover.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🎓 [Sprint Skills — PMP Certification Platform](https://pmp.skill-sprint.com/)** *(freelance · live)*
-<br>`Laravel 12` `PostgreSQL` `Blade`
-
-Exam platform serving 100+ users, with 200+ questions across 12 PMP domains, a scoring engine and session management.
-
-[![Live](https://img.shields.io/badge/Live-pmp.skill--sprint.com-1f6feb?style=flat-square)](https://pmp.skill-sprint.com/) [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/exam_system)
-
-</td>
-<td width="50%">
-
-**🥇 [Gold E-Commerce](https://gold-frontend-pi.vercel.app/)** *(ITI graduation)*
-<br>`Node.js` `Express` `MongoDB` `Socket.IO`
-
-Full e-commerce platform for buying and reverse-selling gold with three roles (Admin, Seller, User) and real-time chat between sellers and buyers.
-
-[![Live](https://img.shields.io/badge/Live-Demo-1f6feb?style=flat-square)](https://gold-frontend-pi.vercel.app/) [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/Gold-Backend)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🚚 [CVRP Route Optimization](https://github.com/MoatazNoaman2001/cvrp)**
-<br>`Java` `Genetic Algorithm` `Tabu Search`
-
-Capacitated Vehicle Routing solver using metaheuristics, parallelised with ExecutorService and CompletableFuture, with a custom Java GUI.
-
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/cvrp)
-
-</td>
-<td width="50%">
-
-**🛸 [UAV Route Optimization](https://github.com/MoatazNoaman2001/UAV-Route-Optemization)**
-<br>`Java` `Simulated Annealing` `Genetic Algorithm`
-
-Drone supply delivery optimization for urban areas using Simulated Annealing and Genetic Algorithm.
-
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/UAV-Route-Optemization)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🩺 [Vitalism](https://github.com/MoatazNoaman2001/ncnn_Android_mediapipe_blazeface_rppg)** *(BSc graduation)*
-<br>`Android` `C++` `OpenCV` `NCNN` `MediaPipe`
-
-Non-invasive vital signs measurement (HR, SpO2, BP) using rPPG and on-device ML with BlazeFace face detection, through a JNI C++ bridge.
-
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/ncnn_Android_mediapipe_blazeface_rppg) ![Stars](https://img.shields.io/github/stars/MoatazNoaman2001/ncnn_Android_mediapipe_blazeface_rppg?style=flat-square&color=yellow)
-
-</td>
-<td width="50%">
-
-**💬 Laikji — Chat Rooms & Streaming** *(Google Play)*
-<br>`Flutter` `WebRTC` `MediaSoup` `Node.js`
-
-Cross-platform chat rooms with real-time messaging and live media streaming, plus the Node.js WebSocket server behind it handling multi-user auth and roles.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**⚡ [Wessol Backend](https://github.com/MoatazNoaman2001/wessol_back)** *(early phase)*
-<br>`Spring Boot 3` `Spring Data JPA` `PostgreSQL` `Redis`
-
-REST API with Redis caching, JPA Specifications and pagination strategies.
-
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/MoatazNoaman2001/wessol_back)
-
-</td>
-<td width="50%">
-
-**🏠 Real Estate Management**
-<br>`Flutter Desktop` `Dart` `SQLite` `BLoC`
-
-Desktop application for managing property listings, contracts, financial tracking and client data for a real estate company in Assiut.
-
-</td>
-</tr>
-</table>
+**Delivery** — Docker and Docker Compose, GitHub Actions, CI/CD, Nginx, Linux, Bash,
+Vercel, Railway, Google Cloud, Prometheus metrics. AWS, Kubernetes and Terraform from the
+DEPI DevOps programme rather than production. Claude Code in daily use.
 
 ---
 
-### 📊 GitHub Stats
+## Education
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=moataznoaman2001&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moataznoaman2001&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
-
-<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=moataznoaman2001&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
-
-<img width="700" src="https://github-profile-trophy.vercel.app/?username=moataznoaman2001&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-
-</div>
-
----
-
-### 🎓 Education
-
-| Degree / Program | Institution | Year |
-|:-----------------|:------------|:-----|
-| **Open-Source Track** (9 months) | Information Technology Institute (ITI) | Oct 2024 — Jul 2025 |
-| **DevOps Engineering** | Digital Egypt Pioneer Program (DEPI) | 2024 |
-| **BSc in Bioinformatics** — GPA 3.43 (Very Good) | Assiut University | 2019 — 2023 |
-
----
-
-<div align="center">
-
-### 💬 Let's Connect
-
-Open to **remote backend, fullstack and mobile roles**, plus **freelance projects**.
-Available immediately.
-
-[![Email](https://img.shields.io/badge/moataz.noaman12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moataz.noaman12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moataz-noaman-02196222a)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer)
-
-</div>
+| Programme | Institution | Year |
+|:----------|:------------|:-----|
+| Open-Source Track, 9 months | Information Technology Institute (ITI) | Oct 2024 – Jul 2025 |
+| DevOps Engineering | Digital Egypt Pioneer Program (DEPI) | 2024 |
+| BSc Bioinformatics, GPA 3.43 | Assiut University | 2019 – 2023 |
